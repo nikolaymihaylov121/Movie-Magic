@@ -1,0 +1,25 @@
+{
+  "name": "movie-magic",
+  "version": "1.0.0",
+  "description": "JS  Back-end Workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikolaymihaylov121/Movie-Magic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikolaymihaylov121/Movie-Magic/issues"
+  },
+  "homepage": "https://github.com/nikolaymihaylov121/Movie-Magic#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
